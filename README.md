@@ -10,7 +10,7 @@ An experimental evaluation of WordPress website in Android System
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shuvoaftab/android-wordpress/main/images/" alt="Ibrahim Sharif Android Server WordPress" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/android-wordpress/main/images/rep-Apache-header.png" alt="Ibrahim Sharif Android Server WordPress" />
 </p>
 
 <p align="center">
