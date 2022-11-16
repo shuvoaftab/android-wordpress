@@ -6,7 +6,7 @@ An experimental evaluation of WordPress website in Android System
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shuvoaftab/android-wordpress/main/images/" alt="Ibrahim Sharif Android Server WordPress" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/shuvoaftab/master/images/Diagrams/AndroidAsServer.png" alt="Ibrahim Sharif Android Server WordPress" />
 </p>
 
 <p align="center">
@@ -35,5 +35,5 @@ An experimental evaluation of WordPress website in Android System
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shuvoaftab/android-wordpress/main/images/" alt="Ibrahim Sharif Android Server WordPress" />
+<img src="https://raw.githubusercontent.com/shuvoaftab/shuvoaftab/master/images/Diagrams/LoadBalancingHomeNetwork.png" alt="Ibrahim Sharif Android Server WordPress" />
 </p>
