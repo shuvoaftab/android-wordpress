@@ -1,0 +1,1015 @@
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      5
+Time taken for tests:   28.296 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    35.34 [#/sec] (mean)
+Time per request:       141.480 [ms] (mean)
+Time per request:       28.296 [ms] (mean, across all concurrent requests)
+Transfer rate:          16.05 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       62  105 116.7     85    2027
+Processing:    20   36  36.9     29     586
+Waiting:       19   35  34.2     28     586
+Total:         85  140 133.5    116    2103
+
+Percentage of the requests served within a certain time (ms)
+  50%    116
+  66%    126
+  75%    134
+  80%    141
+  90%    164
+  95%    218
+  98%    418
+  99%    570
+ 100%   2103 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      10
+Time taken for tests:   14.827 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    67.44 [#/sec] (mean)
+Time per request:       148.270 [ms] (mean)
+Time per request:       14.827 [ms] (mean, across all concurrent requests)
+Transfer rate:          30.63 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       64  109 104.1     87    2442
+Processing:    20   38  47.5     30    1033
+Waiting:       19   37  46.8     29    1033
+Total:         87  146 121.2    118    2471
+
+Percentage of the requests served within a certain time (ms)
+  50%    118
+  66%    132
+  75%    145
+  80%    155
+  90%    183
+  95%    292
+  98%    429
+  99%    541
+ 100%   2471 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      20
+Time taken for tests:   8.538 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    117.12 [#/sec] (mean)
+Time per request:       170.761 [ms] (mean)
+Time per request:       8.538 [ms] (mean, across all concurrent requests)
+Transfer rate:          53.19 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       60  122  79.1    101    1352
+Processing:    20   42  32.7     34     481
+Waiting:       20   41  28.9     34     406
+Total:         82  165  93.6    136    1380
+
+Percentage of the requests served within a certain time (ms)
+  50%    136
+  66%    158
+  75%    175
+  80%    198
+  90%    252
+  95%    311
+  98%    437
+  99%    604
+ 100%   1380 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      30
+Time taken for tests:   5.393 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    185.44 [#/sec] (mean)
+Time per request:       161.778 [ms] (mean)
+Time per request:       5.393 [ms] (mean, across all concurrent requests)
+Transfer rate:          84.21 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       64  115 112.0     97    2366
+Processing:    18   40  26.1     35     623
+Waiting:       18   39  25.9     34     623
+Total:         87  154 119.3    133    2389
+
+Percentage of the requests served within a certain time (ms)
+  50%    133
+  66%    147
+  75%    157
+  80%    169
+  90%    199
+  95%    232
+  98%    303
+  99%    553
+ 100%   2389 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      40
+Time taken for tests:   4.789 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    208.80 [#/sec] (mean)
+Time per request:       191.566 [ms] (mean)
+Time per request:       4.789 [ms] (mean, across all concurrent requests)
+Transfer rate:          94.82 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       67  127 103.3    101    1092
+Processing:    19   50  52.8     38     948
+Waiting:       19   47  46.3     37     948
+Total:         92  177 123.9    141    1172
+
+Percentage of the requests served within a certain time (ms)
+  50%    141
+  66%    160
+  75%    181
+  80%    198
+  90%    237
+  95%    411
+  98%    612
+  99%    843
+ 100%   1172 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      50
+Time taken for tests:   3.945 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    253.47 [#/sec] (mean)
+Time per request:       197.262 [ms] (mean)
+Time per request:       3.945 [ms] (mean, across all concurrent requests)
+Transfer rate:          115.10 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       70  132  68.3    118     895
+Processing:    17   56  39.8     48     538
+Waiting:       17   54  36.8     46     538
+Total:        101  188  83.1    172     925
+
+Percentage of the requests served within a certain time (ms)
+  50%    172
+  66%    188
+  75%    203
+  80%    215
+  90%    252
+  95%    298
+  98%    466
+  99%    560
+ 100%    925 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      75
+Time taken for tests:   3.918 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    255.24 [#/sec] (mean)
+Time per request:       293.842 [ms] (mean)
+Time per request:       3.918 [ms] (mean, across all concurrent requests)
+Transfer rate:          115.90 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       64  194 170.5    148    1687
+Processing:    20   79  83.4     60     995
+Waiting:       20   73  68.1     58     879
+Total:        101  273 193.4    221    1756
+
+Percentage of the requests served within a certain time (ms)
+  50%    221
+  66%    255
+  75%    282
+  80%    314
+  90%    454
+  95%    623
+  98%    784
+  99%   1300
+ 100%   1756 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      100
+Time taken for tests:   3.335 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    299.84 [#/sec] (mean)
+Time per request:       333.515 [ms] (mean)
+Time per request:       3.335 [ms] (mean, across all concurrent requests)
+Transfer rate:          136.16 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       77  176  83.1    156    1017
+Processing:    20   88  56.3     77     623
+Waiting:       20   83  53.4     73     617
+Total:        115  265 110.3    239    1525
+
+Percentage of the requests served within a certain time (ms)
+  50%    239
+  66%    277
+  75%    301
+  80%    314
+  90%    381
+  95%    458
+  98%    549
+  99%    647
+ 100%   1525 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      125
+Time taken for tests:   2.967 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    337.07 [#/sec] (mean)
+Time per request:       370.841 [ms] (mean)
+Time per request:       2.967 [ms] (mean, across all concurrent requests)
+Transfer rate:          153.06 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       87  225 131.0    188    1723
+Processing:    23  110  63.2     99     726
+Waiting:       22  104  60.0     93     726
+Total:        129  336 153.9    309    1833
+
+Percentage of the requests served within a certain time (ms)
+  50%    309
+  66%    362
+  75%    383
+  80%    418
+  90%    508
+  95%    527
+  98%    680
+  99%    858
+ 100%   1833 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      150
+Time taken for tests:   3.606 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    277.30 [#/sec] (mean)
+Time per request:       540.925 [ms] (mean)
+Time per request:       3.606 [ms] (mean, across all concurrent requests)
+Transfer rate:          125.92 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       90  306 176.1    282    2443
+Processing:    27  153  96.3    142    1253
+Waiting:       27  146  89.6    135    1252
+Total:        160  460 211.7    430    2635
+
+Percentage of the requests served within a certain time (ms)
+  50%    430
+  66%    490
+  75%    547
+  80%    576
+  90%    671
+  95%    854
+  98%    954
+  99%   1088
+ 100%   2635 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      175
+Time taken for tests:   3.161 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    316.36 [#/sec] (mean)
+Time per request:       553.163 [ms] (mean)
+Time per request:       3.161 [ms] (mean, across all concurrent requests)
+Transfer rate:          143.66 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       97  285 124.4    238     786
+Processing:    24  149  77.7    133     598
+Waiting:       24  139  71.0    124     555
+Total:        144  433 157.7    405     977
+
+Percentage of the requests served within a certain time (ms)
+  50%    405
+  66%    464
+  75%    541
+  80%    570
+  90%    675
+  95%    738
+  98%    817
+  99%    855
+ 100%    977 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      200
+Time taken for tests:   2.774 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    360.54 [#/sec] (mean)
+Time per request:       554.717 [ms] (mean)
+Time per request:       2.774 [ms] (mean, across all concurrent requests)
+Transfer rate:          163.72 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       90  302 140.6    269    2373
+Processing:    24  165  94.7    142    1110
+Waiting:       24  150  90.4    128    1108
+Total:        135  467 177.3    449    2441
+
+Percentage of the requests served within a certain time (ms)
+  50%    449
+  66%    489
+  75%    519
+  80%    559
+  90%    706
+  95%    745
+  98%    837
+  99%    970
+ 100%   2441 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      250
+Time taken for tests:   2.643 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    378.29 [#/sec] (mean)
+Time per request:       660.873 [ms] (mean)
+Time per request:       2.643 [ms] (mean, across all concurrent requests)
+Transfer rate:          171.78 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      103  375 239.5    290    1249
+Processing:    35  176 108.4    134     729
+Waiting:       21  160  99.6    122     704
+Total:        209  551 268.4    430    1420
+
+Percentage of the requests served within a certain time (ms)
+  50%    430
+  66%    554
+  75%    655
+  80%    711
+  90%   1026
+  95%   1109
+  98%   1272
+  99%   1278
+ 100%   1420 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        0 bytes
+
+Concurrency Level:      500
+Time taken for tests:   4.071 seconds
+Complete requests:      1000
+Failed requests:        998
+   (Connect: 0, Receive: 0, Length: 998, Exceptions: 0)
+Total transferred:      464535 bytes
+HTML transferred:       46953 bytes
+Requests per second:    245.62 [#/sec] (mean)
+Time per request:       2035.636 [ms] (mean)
+Time per request:       4.071 [ms] (mean, across all concurrent requests)
+Transfer rate:          111.43 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0  822 490.1    651    2683
+Processing:    64  624 421.4    515    2028
+Waiting:        0  602 421.9    475    2008
+Total:        124 1446 771.7   1444    3680
+
+Percentage of the requests served within a certain time (ms)
+  50%   1444
+  66%   1853
+  75%   1880
+  80%   1958
+  90%   2913
+  95%   2996
+  98%   3090
+  99%   3108
+ 100%   3680 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        0 bytes
+
+Concurrency Level:      750
+Time taken for tests:   17.496 seconds
+Complete requests:      3000
+Failed requests:        2996
+   (Connect: 0, Receive: 0, Length: 2996, Exceptions: 0)
+Total transferred:      1393605 bytes
+HTML transferred:       140859 bytes
+Requests per second:    171.47 [#/sec] (mean)
+Time per request:       4373.963 [ms] (mean)
+Time per request:       5.832 [ms] (mean, across all concurrent requests)
+Transfer rate:          77.79 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0  724 403.7    575    4842
+Processing:    55  794 1091.0    517   14240
+Waiting:        0  742 1088.3    440   14238
+Total:        158 1517 1253.1   1173   14778
+
+Percentage of the requests served within a certain time (ms)
+  50%   1173
+  66%   1458
+  75%   1557
+  80%   1774
+  90%   2334
+  95%   3950
+  98%   6797
+  99%   6807
+ 100%  14778 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+Total of 1010 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+Total of 1346 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        0 bytes
+
+Concurrency Level:      250
+Time taken for tests:   6.582 seconds
+Complete requests:      1000
+Failed requests:        984
+   (Connect: 0, Receive: 0, Length: 984, Exceptions: 0)
+Total transferred:      458025 bytes
+HTML transferred:       46295 bytes
+Requests per second:    151.94 [#/sec] (mean)
+Time per request:       1645.386 [ms] (mean)
+Time per request:       6.582 [ms] (mean, across all concurrent requests)
+Transfer rate:          67.96 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0  582 273.6    539    2658
+Processing:    44  302 271.8    221    3835
+Waiting:        0  284 254.7    215    3835
+Total:        128  884 408.6    792    4451
+
+Percentage of the requests served within a certain time (ms)
+  50%    792
+  66%    888
+  75%    959
+  80%   1089
+  90%   1329
+  95%   1685
+  98%   1982
+  99%   2656
+ 100%   4451 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      500
+Time taken for tests:   4.215 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    237.27 [#/sec] (mean)
+Time per request:       2107.328 [ms] (mean)
+Time per request:       4.215 [ms] (mean, across all concurrent requests)
+Transfer rate:          107.74 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      148  898 354.1    877    2773
+Processing:    64  405 263.5    320    2009
+Waiting:       36  374 259.4    304    2009
+Total:        212 1303 429.5   1137    3552
+
+Percentage of the requests served within a certain time (ms)
+  50%   1137
+  66%   1371
+  75%   1623
+  80%   1631
+  90%   1748
+  95%   2001
+  98%   2811
+  99%   2844
+ 100%   3552 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        0 bytes
+
+Concurrency Level:      750
+Time taken for tests:   22.549 seconds
+Complete requests:      3000
+Failed requests:        2992
+   (Connect: 0, Receive: 0, Length: 2992, Exceptions: 0)
+Total transferred:      1391745 bytes
+HTML transferred:       140671 bytes
+Requests per second:    133.05 [#/sec] (mean)
+Time per request:       5637.189 [ms] (mean)
+Time per request:       7.516 [ms] (mean, across all concurrent requests)
+Transfer rate:          60.27 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0  806 580.3    656    6140
+Processing:    59  797 1089.6    475   19658
+Waiting:        0  755 1092.8    446   19658
+Total:        177 1602 1250.6   1307   20367
+
+Percentage of the requests served within a certain time (ms)
+  50%   1307
+  66%   1601
+  75%   1923
+  80%   1999
+  90%   2680
+  95%   3775
+  98%   4673
+  99%   6005
+ 100%  20367 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        0 bytes
+
+Concurrency Level:      750
+Time taken for tests:   12.643 seconds
+Complete requests:      3000
+Failed requests:        2919
+   (Connect: 0, Receive: 0, Length: 2919, Exceptions: 0)
+Total transferred:      1361985 bytes
+HTML transferred:       137663 bytes
+Requests per second:    237.28 [#/sec] (mean)
+Time per request:       3160.769 [ms] (mean)
+Time per request:       4.214 [ms] (mean, across all concurrent requests)
+Transfer rate:          105.20 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0 1527 1571.9    836    9773
+Processing:    65  972 1165.3    578    8342
+Waiting:        0  906 1142.0    555    8342
+Total:        279 2499 1906.6   1520   10382
+
+Percentage of the requests served within a certain time (ms)
+  50%   1520
+  66%   2608
+  75%   3520
+  80%   4276
+  90%   5983
+  95%   6660
+  98%   7095
+  99%   7131
+ 100%  10382 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      500
+Time taken for tests:   6.134 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      465000 bytes
+HTML transferred:       47000 bytes
+Requests per second:    163.01 [#/sec] (mean)
+Time per request:       3067.229 [ms] (mean)
+Time per request:       6.134 [ms] (mean, across all concurrent requests)
+Transfer rate:          74.02 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      196  628 271.4    580    2090
+Processing:    49  377 299.7    280    5485
+Waiting:       29  339 296.1    242    5485
+Total:        263 1005 428.5    930    5879
+
+Percentage of the requests served within a certain time (ms)
+  50%    930
+  66%   1096
+  75%   1260
+  80%   1339
+  90%   1414
+  95%   1429
+  98%   2030
+  99%   2684
+ 100%   5879 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+Total of 2719 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      750
+Time taken for tests:   25.005 seconds
+Complete requests:      2000
+Failed requests:        0
+Total transferred:      930000 bytes
+HTML transferred:       94000 bytes
+Requests per second:    79.98 [#/sec] (mean)
+Time per request:       9376.878 [ms] (mean)
+Time per request:       12.503 [ms] (mean, across all concurrent requests)
+Transfer rate:          36.32 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      111  724 422.5    682    1733
+Processing:    64 1105 1606.2    765   23388
+Waiting:       29 1070 1617.4    538   23388
+Total:        176 1829 1700.9   1470   24839
+
+Percentage of the requests served within a certain time (ms)
+  50%   1470
+  66%   1802
+  75%   2302
+  80%   2317
+  90%   3358
+  95%   3825
+  98%   5852
+  99%   6360
+ 100%  24839 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking android.ibrahimsharif.com (be patient)
+
+
+Server Software:        nginx/1.23.1
+Server Hostname:        android.ibrahimsharif.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+Server Temp Key:        ECDH X25519 253 bits
+TLS Server Name:        android.ibrahimsharif.com
+
+Document Path:          /phptime/
+Document Length:        47 bytes
+
+Concurrency Level:      1000
+Time taken for tests:   27.196 seconds
+Complete requests:      2000
+Failed requests:        19
+   (Connect: 0, Receive: 0, Length: 19, Exceptions: 0)
+Non-2xx responses:      19
+Total transferred:      928290 bytes
+HTML transferred:       96090 bytes
+Requests per second:    73.54 [#/sec] (mean)
+Time per request:       13597.918 [ms] (mean)
+Time per request:       13.598 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.33 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      155 1068 669.5    698    4183
+Processing:   106 1808 2941.5    901   23944
+Waiting:       57 1762 2959.2    712   23944
+Total:        287 2876 3190.2   1917   24546
+
+Percentage of the requests served within a certain time (ms)
+  50%   1917
+  66%   2414
+  75%   3577
+  80%   4179
+  90%   5148
+  95%   9227
+  98%  13755
+  99%  19043
+ 100%  24546 (longest request)
