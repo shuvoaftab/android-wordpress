@@ -160,7 +160,6 @@ These screenshots serve as tangible evidence of the successful deployment and fu
 ### ❖ HTML Template page and PHPINFO single PHP Page
 
 Additional screenshots of specific target tests regarding static HTML pages and a single PHP Script enhance the comprehensiveness of the project documentation. Here are two additional target tests for which screenshots are provided as to how they look.
-
 <hr>
 
 <p align="center">
