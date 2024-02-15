@@ -1,26 +1,5 @@
 # WordPress, PHP, and HTML Websites on Android Platform
 
-An experimental evaluation of WordPress website in the Android System
-
-<hr>
-
-## Specifications:
-
-<ul>
-    <li>Host: HUAWEI EVA-L19</li>
-    <li>CPU: HiSilicon Kirin CPU, ARM, AArch64 rev 4 (aarch64) (8) @ 1.805GHz </li>
-    <li>OS: Android 7.0 aarch64</li>
-    <li>Kernel: 4.1.18-g29121ee</li>
-    <li>Packages: 155 (dpkg), 1 (pkg)</li>
-    <li>Shell: bash 5.2.2</li>
-    <li>Terminal: /dev/pts/1</li>
-    <li>Memory: 1680MiB / 2780MiB</li><br/>
-    <li>ASN: Summit IIG, BD, APNIC</li>
-    <li>Subnet: Public /32</li>
-    <li>NAT: Private /24</li><br/>
-    <li>Power Backup: Xiaomi 20,000 mAh</li>
-</ul>
-
 <hr>
 
 
@@ -96,6 +75,23 @@ Considering the inherent hardware and resource constraints of Android devices, i
 ### ❖ The Initial Model is similar to Combined Clouds and Stacks in Production Servers
 
 I've distilled the common and widely used stacks for web servers typically deployed in production environments, whether in the cloud or on virtual machines within traditional data centers. These recommendations draw from years of hands-on experience working with these technologies in various operational settings.
+
+#### Specifications:
+
+<ul>
+    <li>Host: HUAWEI EVA-L19</li>
+    <li>CPU: HiSilicon Kirin CPU, ARM, AArch64 rev 4 (aarch64) (8) @ 1.805GHz </li>
+    <li>OS: Android 7.0 aarch64</li>
+    <li>Kernel: 4.1.18-g29121ee</li>
+    <li>Packages: 155 (dpkg), 1 (pkg)</li>
+    <li>Shell: bash 5.2.2</li>
+    <li>Terminal: /dev/pts/1</li>
+    <li>Memory: 1680MiB / 2780MiB</li><br/>
+    <li>ASN: Summit IIG, BD, APNIC</li>
+    <li>Subnet: Public /32</li>
+    <li>NAT: Private /24</li><br/>
+    <li>Power Backup: Xiaomi 20,000 mAh</li>
+</ul>
 <hr>
 
 <p align="center">
